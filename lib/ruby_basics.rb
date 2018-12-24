@@ -3,11 +3,11 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  value = Avigayil
+  value = "Avigayil"
 end
 
 def argue
-  argue = hello
+ puts argue
 end
 
 def greeting(name, program)
@@ -25,6 +25,6 @@ def last_evaluated_value
 end
 
 def pizza_party(topping = cheese)
-  pizza_party = topping
+  pizza_party = (topping)
   pizza_party
 end
