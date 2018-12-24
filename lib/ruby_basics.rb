@@ -3,12 +3,12 @@ def division(num1, num2)
 end
 
 def assign_variable(name)
-  name = Avigayil
+  name = "Avigayil"
   #{name}
 end
 
-def argue
- puts argue
+def argue(argument)
+ argue = argument
 end
 
 def greeting(name, program)
